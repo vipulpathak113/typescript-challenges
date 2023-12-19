@@ -7,3 +7,10 @@ document.getElementById("app").innerHTML = `
   info about Parcel 
   <a href="https://parceljs.org" target="_blank" rel="noopener noreferrer">here</a>.
 </div>`;
+
+// garbage collector in js > Mine and sweep algorithm
+//atomic design
+// redux vs redux toolkit
+// git merge vs rebase
+// deployment strategy
+// different bundler
